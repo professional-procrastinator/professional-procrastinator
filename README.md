@@ -1,5 +1,5 @@
 
-Welcome to my github profile. There isn't a lot to see here. That's because a lot of repositories are private.
+Welcome to my github profile. There isn't a lot to see here. That's because a lot of my repositories are private.
 
 
 
