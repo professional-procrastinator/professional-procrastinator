@@ -5,7 +5,7 @@ Welcome to my github profile. There isn't a lot to see here. That's because a lo
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=professional-procrastinator&show_icons=true&include_all_commits=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=professional-procrastinator&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=professional-procrastinator&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages and Frameworks
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
