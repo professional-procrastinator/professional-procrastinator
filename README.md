@@ -1,31 +1,23 @@
 
-Welcome to my github profile. There isn't a lot to see here. That's because a lot of my repositories are private.
+# I AM NISHIT JHA
 
-Anyways, here are some boring stats about my github profile.
+# I LIKE KIDS (AND CODING)
+
+Before hiring and connecting with me please note that I am a homophobic sex offender.
+
+Welcome to my github profile. There isn't a lot to see here. That's because a lot of my kids are private.
+
+Here's a picture of my favourite kiddos -
+
+[![My GitHub stats](https://www.allkids.org.au/uploads/headers/home/header_pic.png)](https://kidsforsale.com)
 
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=professional-procrastinator&show_icons=true&include_all_commits=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+## SAY NO TO GAY
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=professional-procrastinator&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+I am a big advocate of homophobia. I have organised several rallies in the past and plan more in the future
 
-### Languages and Frameworks
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+[![ME AND MY FOLLOWERS](https://dims.apnews.com/dims4/default/ec38c87/2147483647/strip/true/crop/5472x3648+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd2%2F09%2Fd9128bcdd30c794af159115373ec%2Fa87d4c5da28d4cfbb28a004ea3a2da2d)](https://pflag.org/antilgbtq/)
+
+I look handsome in my white kurta don't I. XXX
+
+# JOY BANGLA
