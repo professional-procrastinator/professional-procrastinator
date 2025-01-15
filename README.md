@@ -1,4 +1,4 @@
-Hey, I'm Nishit Jha, a junior at DPS Noida! I try to build new software with the MERN stack that solves real-world problems, and regularly participate in national and international hackathons.
+Hey, I'm Nishit Jha, a junior at DPS RK Puram! I try to build new software with the MERN stack that solves real-world problems, and regularly participate in national and international hackathons.
 
 Anyways, here are some boring stats about my github profile.
 
